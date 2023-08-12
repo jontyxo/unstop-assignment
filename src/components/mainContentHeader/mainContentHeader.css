@@ -1,0 +1,30 @@
+.maincontentheader{
+    display: flex;
+height: 70px;
+padding: 0px 20px;
+justify-content: center;
+align-items: center;
+gap: 24px;
+align-self: stretch;
+border-radius: 12px 12px 0px 0px;
+border-bottom: 1px solid var(--system-divider, #DDE5EA);
+background: #FFF;
+
+}
+.maincontentheader :nth-child(1){
+font-size: 20px;
+font-family: Inter;
+color: #1C4980;
+font-weight: 600;
+}
+.maincontentheader :nth-child(3){
+    font-size: 14px;
+    font-family: Inter;
+    color:#0073E6;
+    font-weight: 600;
+    border-bottom: 3px solid #0073E6;
+    padding-bottom: inherit;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    }

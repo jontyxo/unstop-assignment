@@ -1,0 +1,25 @@
+.MainContent{
+    min-height: 140vh;
+    padding-bottom: 40px;
+    margin-left: 9rem;
+    background-color: #fff;
+display: flex;
+width: 100%;
+flex-direction: column;
+align-items: flex-start;
+gap: 22px;
+align-self: stretch;
+border-radius: 0px 0px 12px 12px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+@media screen and (max-width: 767px) {
+.MainContent{
+    margin: 0;
+   padding-top: 40px;
+}    
+.maincontentcardcontent{
+    flex-direction: column;
+}
+}

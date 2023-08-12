@@ -1,0 +1,114 @@
+.maincontentoverview{
+    display: flex;
+padding: 0px 20px;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+align-self: stretch;
+}
+.maincontentoverviewhead{
+    color:#1C4980;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 500;
+}
+.maincontentoverviewmain{
+    border: 1px solid #DADCE0;
+    border-radius: 12px;
+    display: flex;
+}
+.mcom{
+    padding: 20px 15px;
+    gap: 16px;
+    display: inherit;
+    flex-direction: column;
+    border-right: 1px solid #DADCE0;
+
+}
+.mcom:nth-child(3){
+    padding: 20px 100px 20px 15px ;
+   
+    }
+.mcom:nth-child(4){
+padding: 20px 80px 20px 15px ;
+border: none;
+}
+.mc2head{
+    color:#1C4980;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Inter;
+    width: max-content;
+}
+.mc2content{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.mc2content span{
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    color:#1C4980;
+}
+.mc2content1{
+    display:flex;
+    align-items: flex-start;
+}
+.mc2content2{
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 10px;
+}
+.mc2content2 > div{
+    padding: 0px 20px;
+    width: max-content;
+    border-right: 1px solid #DADCE0;
+
+}
+.mc2content2 div:last-child{
+border:none;
+}
+.mc2content2 >div> p{
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    color:#1C4980;
+
+
+}
+.mc2content2 div span{
+    font-size: 12px;
+    font-weight: 500;
+    color:#1C4980;
+font-family: Inter;
+}
+.mc2content2 div p span{
+    color: #05C165;
+    font-size: 12px;
+    font-weight: 500;
+}
+@media screen and (max-width: 768px) {
+    .maincontentoverview{
+
+        display: none;
+    }
+    .mobheadmco{
+        display: flex;
+        width: 90vw;
+        justify-content: space-between;
+        color:  #1C4980;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        margin: 0px 30px;
+    }
+    .mobheadmco div:nth-child(2){
+        display: flex;
+    gap: 8px;
+    }
+    
+}
