@@ -28,3 +28,15 @@ font-weight: 600;
     display: flex;
     align-items: center;
     }
+
+    @media screen and (max-width: 768px) {
+        .maincontentheader{
+            flex-direction: row-reverse;
+            width: 115%;
+            border-bottom: 1px solid #DADCE0;
+            justify-content: flex-end;
+        }
+        .maincontentheader :nth-child(1){
+            font-size: 16px;
+        }
+    }

@@ -68,7 +68,14 @@ function Navbar() {
         
       </div>) 
       :
-      (<img className='hamburgerimg' onClick={handleMenuState} src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691770191/segment_fdz21z.svg" />)}
+      (<div className="hamburgerparent">
+
+        <div className="hamburgerimgdiv">
+        <img className='hamburgerimg' onClick={handleMenuState} src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691770191/segment_fdz21z.svg" />
+        </div>
+        <span className='hamburgerspan'>Assessment</span>
+      </div>
+        )}
       </div>)
       :(
 

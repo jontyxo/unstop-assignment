@@ -350,4 +350,7 @@ form select{
   .labellast{
     display: none;
   }
+  .maincontentcardadder{
+    width: auto;
+  }
 }

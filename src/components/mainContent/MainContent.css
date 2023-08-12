@@ -17,7 +17,7 @@ border-radius: 0px 0px 12px 12px;
 @media screen and (max-width: 767px) {
 .MainContent{
     margin: 0;
-   padding-top: 40px;
+   padding-top: 60px;
 }    
 .maincontentcardcontent{
     flex-direction: column;
