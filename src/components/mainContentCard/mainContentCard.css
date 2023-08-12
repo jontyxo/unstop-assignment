@@ -311,7 +311,31 @@ form select{
     font-weight: 600;
     font-size: 14px;
   }
+  .maincontentcardcontent :nth-child(4),
+  .maincontentcardcontent :nth-child(5),
+  .maincontentcardcontent :nth-child(6),
+  .maincontentcardcontent :nth-child(7) {
+    display: none;
+  }
+  .maincontentcard2sub span{
+    font-size: 12px;
+    color: #1C4980;
+    font-weight: 600;
+    font-family: Inter;
+    padding-left: 5px;
+    display: none;
+    
+  }
   @media screen and (max-width: 768px) {
+    .maincontentcard2sub span{
+        display: initial;
+    }
+    .maincontentcardcontent :nth-child(4),
+    .maincontentcardcontent :nth-child(5),
+    .maincontentcardcontent :nth-child(6),
+    .maincontentcardcontent :nth-child(7) {
+      display: inherit;
+    }
     .maincontentcardhead{
         display: none;
         

@@ -92,6 +92,139 @@ const MainContentCard = () => {
                         <span><p>LP</p></span>
                         <span><p>LP</p></span>
                     </div>
+                    <span>+324</span>
+                </div>
+            </div>
+            <div className="maincontentcard1">
+                <div className='maincontentcard1sub'>
+                    <div>
+                        <div><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786374/Frame_1000008703_uct9bi.svg" /></div>
+                        <div>
+                            <div className='mcshead'>Math Assessment</div>
+                            <div className='mcscontent'>
+                                <span>Job</span>
+                                <span>
+                                 <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691787527/calendar_today_atqies.svg" />20 Apr 2023</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786653/Group_6_xpioet.svg" />
+                    </div>
+                </div>
+
+                <div className="maincontentcard2sub">
+                    <div>
+                        <span>00 Duration</span>
+                        <span>00 Questions</span>
+                    </div>
+                    <div>
+                    <span className='span1childmove'><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                        <span className='span2childmove'><p>LP</p></span>
+                        <span><p>LP</p></span>
+                        <span><p>LP</p></span>
+                    </div>
+                    <span>+324</span>
+
+                </div>
+            </div>
+            <div className="maincontentcard1">
+                <div className='maincontentcard1sub'>
+                    <div>
+                        <div><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786374/Frame_1000008703_uct9bi.svg" /></div>
+                        <div>
+                            <div className='mcshead'>Math Assessment</div>
+                            <div className='mcscontent'>
+                                <span>Job</span>
+                                <span>
+                                 <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691787527/calendar_today_atqies.svg" />20 Apr 2023</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786653/Group_6_xpioet.svg" />
+                    </div>
+                </div>
+
+                <div className="maincontentcard2sub">
+                    <div>
+                        <span>00 Duration</span>
+                        <span>00 Questions</span>
+                    </div>
+                    <div>
+                    <span className='span1childmove'><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                        <span className='span2childmove'><p>LP</p></span>
+                        <span><p>LP</p></span>
+                        <span><p>LP</p></span>
+                    </div>
+                    <span>+324</span>
+
+                </div>
+            </div>
+            <div className="maincontentcard1">
+                <div className='maincontentcard1sub'>
+                    <div>
+                        <div><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786374/Frame_1000008703_uct9bi.svg" /></div>
+                        <div>
+                            <div className='mcshead'>Math Assessment</div>
+                            <div className='mcscontent'>
+                                <span>Job</span>
+                                <span>
+                                 <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691787527/calendar_today_atqies.svg" />20 Apr 2023</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786653/Group_6_xpioet.svg" />
+                    </div>
+                </div>
+
+                <div className="maincontentcard2sub">
+                    <div>
+                        <span>00 Duration</span>
+                        <span>00 Questions</span>
+                    </div>
+                    <div>
+                    <span className='span1childmove'><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                        <span className='span2childmove'><p>LP</p></span>
+                        <span><p>LP</p></span>
+                        <span><p>LP</p></span>
+                    </div>
+                    <span>+324</span>
+
+                </div>
+            </div>
+            <div className="maincontentcard1">
+                <div className='maincontentcard1sub'>
+                    <div>
+                        <div><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786374/Frame_1000008703_uct9bi.svg" /></div>
+                        <div>
+                            <div className='mcshead'>Math Assessment</div>
+                            <div className='mcscontent'>
+                                <span>Job</span>
+                                <span>
+                                 <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691787527/calendar_today_atqies.svg" />20 Apr 2023</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691786653/Group_6_xpioet.svg" />
+                    </div>
+                </div>
+
+                <div className="maincontentcard2sub">
+                    <div>
+                        <span>00 Duration</span>
+                        <span>00 Questions</span>
+                    </div>
+                    <div>
+                    <span className='span1childmove'><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                        <span className='span2childmove'><p>LP</p></span>
+                        <span><p>LP</p></span>
+                        <span><p>LP</p></span>
+                    </div>
+                    <span>+32,400</span>
+
                 </div>
             </div>
         </div>
