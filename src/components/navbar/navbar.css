@@ -82,6 +82,7 @@ padding-top: 20px;
   .showMobMenu {
     transform: translateX(0);
     transition: transform 0.5s;
+    width: 80vw;
   }
   
   @keyframes menuMobSlide {
@@ -94,13 +95,13 @@ padding-top: 20px;
   }
   .mobnavbr{
     position: absolute;
-    width: 100%;
     height: 100vh;
   
   }
 
 .hamburgerimg {
   padding: 10px 20px;
+  cursor: pointer;
 }
 @keyframes menuMobSlide {
     0%{
