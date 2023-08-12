@@ -92,7 +92,7 @@ background-color: #F2F8FE;
 border-radius: 60px;
   }
   .hamburgerparent{
-    margin: 5px 20px;
+    margin: 10px 20px 5px 20px;
     display: flex;
     align-items: center;
   }
