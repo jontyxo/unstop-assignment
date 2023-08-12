@@ -87,7 +87,9 @@ const MainContentCard = () => {
                         <span>00 Questions</span>
                     </div>
                     <div>
-                    <span><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                    <span className='span1childmove'><img src="https://res.cloudinary.com/dvjc0fusx/image/upload/v1691789309/link_bvjenj.svg" /><p>Share</p></span>
+                        <span className='span2childmove'><p>LP</p></span>
+                        <span><p>LP</p></span>
                         <span><p>LP</p></span>
                     </div>
                 </div>

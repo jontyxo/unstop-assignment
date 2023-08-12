@@ -64,6 +64,7 @@ background-color: #fff;
     display: flex;
     justify-content: space-between;
     border-bottom: 1.5px dotted #DADCE0;
+    margin-bottom: 10px;
 }
 .maincontentcard2sub{
     display: flex;
@@ -151,14 +152,59 @@ height: 30px;
 padding: 1px;
 flex-direction: column;
 justify-content: center;
-align-items: center;
-gap: 10px;border-radius: 32.728px;    
+        border: 2px solid #fff;
+        align-items: center;
+gap: 10px;border-radius: 32.728px;   
+
+ 
 }
+.span2childmove{
+    position: relative;
+    left: 50px;
+}
+.maincontentcard2sub div:nth-child(2) > span:nth-child(4){
+    color: #fff;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 700;
+    background-color: #E9407A;
+    display: flex;
+    z-index: 5;
+    width: 30px;
+        border: 2px solid #fff;
+        height: 30px;
+    padding: 1px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;border-radius: 32.728px;    
+    }.maincontentcard2sub div:nth-child(2) > span:nth-child(3){
+        position: relative;
+        border: 2px solid #fff;
+    left: 25px;
+        background-color: #3079E1;
+        display: flex;
+        color: #fff;
+        font-size: 14px;
+        font-family: Inter;
+        font-weight: 700;
+        width: 30px;
+        height: 30px;
+        padding: 1px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;border-radius: 32.728px;    
+        }
 .maincontentcard2sub div:nth-child(2) > span:nth-child(2)>p{
     color: #fff;
     font-size: 14px;
     font-family: Inter;
     font-weight: 700;
+}
+.span1childmove{
+    position: relative;
+    left: 20%;
 }
 
   
